@@ -1,7 +1,7 @@
 Инженерные практики в отдельно взятой команде
 =============================================
 
-## (Слайды)[http://niquola.github.io/spb-agile-kitchen-2014-april-slides/]
+## [Слайды](http://niquola.github.io/spb-agile-kitchen-2014-april-slides/)
 
 ### Кто мы?
 
